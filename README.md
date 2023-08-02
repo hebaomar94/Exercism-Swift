@@ -16,3 +16,19 @@ Check out the test cases and expected results in HelloWorldTests.swift. Here are
 
 Calling hello() returns "Hello, World!"
 Calling hello("Alice") returns "Hello, Alice!"
+
+
+# iterations2
+Instructions
+In this exercise you're going to write some code to help you cook a brilliant lasagna from your favorite cooking book. You have four tasks, all related to the time spent cooking the lasagna.
+
+- Task 1
+Define the expected oven time in minutes
+
+- Task 2
+Calculate the remaining oven time in minutes
+
+- Task 3
+Calculate the preparation time in minutes
+- Task 4
+Calculate the total working time in minutes
